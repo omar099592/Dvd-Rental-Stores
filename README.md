@@ -11,7 +11,7 @@ An end-to-end data analysis project using PostgreSQL, Python, and Power BI to tr
 
 -- **Dashboard Overview** :
 
-![Dashboard : ](dvd-rental-dashb.mp4)
+![Dashboard : ]([dvd-rental-dashb.mp4](Dvd-rental-dashboard.png))
 
 
 
